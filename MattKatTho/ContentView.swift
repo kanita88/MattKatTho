@@ -11,6 +11,7 @@ struct ContentView: View {
     var body: some View {
         Text("Hello")
         Text("Bonjour Main")
+        Text("Je vais tester merge")
     }
 }
 
