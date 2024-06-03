@@ -12,6 +12,7 @@ struct ContentView: View {
         Text("Hello")
         Text("Bonjour")
         Text("Bonjoudsfsqqfr")
+        Text("Bonjour Kathy")
     }
 }
 
